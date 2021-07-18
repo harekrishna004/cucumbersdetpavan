@@ -1,0 +1,252 @@
+2021-07-14 18:28:52,724  INFO [main] CucumberBy_SDET:31 - *******launching browser*******
+2021-07-14 18:28:52,923  INFO [main] CucumberBy_SDET:39 - *******opening url*******
+2021-07-14 18:28:57,599  INFO [main] CucumberBy_SDET:70 - *******providing loging details*******
+2021-07-14 18:28:58,000  INFO [main] CucumberBy_SDET:77 - *******started loging*******
+2021-07-14 18:29:18,799  INFO [main] CucumberBy_SDET:133 - ******adding new customer********
+2021-07-14 18:29:18,799  INFO [main] CucumberBy_SDET:134 - ******providing customer details********
+2021-07-14 18:29:26,372  INFO [main] CucumberBy_SDET:160 - ******saving customer data********
+2021-07-14 18:29:32,824  INFO [main] CucumberBy_SDET:85 - ******close browser********
+2021-07-14 18:29:34,888  INFO [main] CucumberBy_SDET:31 - *******launching browser*******
+2021-07-14 18:29:35,033  INFO [main] CucumberBy_SDET:39 - *******opening url*******
+2021-07-14 18:29:39,649  INFO [main] CucumberBy_SDET:70 - *******providing loging details*******
+2021-07-14 18:29:40,051  INFO [main] CucumberBy_SDET:77 - *******started loging*******
+2021-07-14 18:29:54,762  INFO [main] CucumberBy_SDET:180 - *****searching customer by emailid*********
+2021-07-14 18:29:58,304  INFO [main] CucumberBy_SDET:85 - ******close browser********
+2021-07-14 18:30:00,255  INFO [main] CucumberBy_SDET:31 - *******launching browser*******
+2021-07-14 18:30:00,401  INFO [main] CucumberBy_SDET:39 - *******opening url*******
+2021-07-14 18:30:05,006  INFO [main] CucumberBy_SDET:70 - *******providing loging details*******
+2021-07-14 18:30:05,412  INFO [main] CucumberBy_SDET:77 - *******started loging*******
+2021-07-14 18:30:19,985  INFO [main] CucumberBy_SDET:207 - *****searching customer by name*********
+2021-07-14 18:30:23,734  INFO [main] CucumberBy_SDET:85 - ******close browser********
+2021-07-14 19:02:03,310  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 19:02:03,721  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 19:02:08,291  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 19:02:08,638  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 19:02:27,063  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 19:02:27,069  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 19:02:34,856  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 19:02:41,434  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 19:02:43,624  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 19:02:43,770  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 19:02:48,241  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 19:02:48,598  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 19:03:04,149  INFO [main] CucumberBy_SDET:210 - *****searching customer by emailid*********
+2021-07-14 19:03:07,710  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 19:03:09,716  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 19:03:09,877  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 19:03:14,542  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 19:03:14,843  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 19:03:27,545  INFO [main] CucumberBy_SDET:237 - *****searching customer by name*********
+2021-07-14 19:03:31,284  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:12:27,096  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:12:27,407  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:12:32,179  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:12:32,395  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:12:51,017  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:12:51,038  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:12:55,688  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:12:55,878  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:13:11,117  INFO [main] CucumberBy_SDET:210 - *****searching customer by emailid*********
+2021-07-14 20:13:15,144  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:13:20,492  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:13:20,512  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:13:25,029  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:13:25,208  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:13:39,366  INFO [main] CucumberBy_SDET:237 - *****searching customer by name*********
+2021-07-14 20:13:43,822  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:18:41,254  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:18:41,493  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:19:06,919  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:19:07,096  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:19:19,749  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:19:19,785  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:19:23,168  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:19:23,336  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:19:39,447  INFO [main] CucumberBy_SDET:210 - *****searching customer by emailid*********
+2021-07-14 20:19:43,480  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:19:48,765  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:19:48,795  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:19:53,531  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:19:53,699  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:20:06,848  INFO [main] CucumberBy_SDET:237 - *****searching customer by name*********
+2021-07-14 20:20:11,270  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:22:08,369  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:22:08,796  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:22:13,291  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:22:13,668  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:22:35,843  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:22:35,843  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:22:43,576  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:22:49,426  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:22:51,421  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:22:51,580  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:22:56,066  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:22:56,456  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:23:12,168  INFO [main] CucumberBy_SDET:210 - *****searching customer by emailid*********
+2021-07-14 20:23:15,736  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:23:17,747  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:23:17,897  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:23:22,492  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:23:22,832  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:23:38,350  INFO [main] CucumberBy_SDET:237 - *****searching customer by name*********
+2021-07-14 20:23:42,073  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:30:20,864  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:30:21,242  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:30:25,937  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:30:26,311  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:30:41,680  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:30:41,687  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:30:49,488  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:30:54,101  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:31:42,572  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:31:42,943  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:31:47,691  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:31:48,112  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:32:06,144  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:32:06,144  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:32:13,983  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:32:19,537  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:32:21,641  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:32:21,795  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:32:25,533  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:32:25,943  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:32:32,852  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:32:32,883  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 20:32:39,600  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:32:39,603  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:37:09,614  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:37:09,985  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:37:14,647  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:37:15,003  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:37:34,533  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:37:34,533  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:37:42,370  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:37:47,170  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:37:49,308  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:37:49,454  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:37:54,048  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:37:54,366  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:38:03,591  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:38:03,615  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 20:38:09,566  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:38:09,569  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:39:35,075  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:39:35,455  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:39:39,786  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:39:40,106  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:39:58,655  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:39:58,655  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:40:06,519  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:40:14,104  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:40:16,109  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:40:16,255  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:40:20,794  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:40:21,114  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:40:29,835  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:40:29,845  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 20:40:34,825  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:40:34,835  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:43:41,273  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:43:41,643  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:43:46,056  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:43:46,203  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:50:42,462  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:50:42,814  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:50:47,290  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:50:47,683  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:51:04,552  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:51:04,552  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:51:11,991  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:51:18,300  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:51:20,192  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:51:20,352  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:51:24,589  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:51:24,877  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:51:32,080  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:51:32,088  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 20:51:39,543  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:51:39,549  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:53:49,847  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:53:50,301  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:53:53,668  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:53:53,917  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:54:10,725  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 20:54:10,725  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 20:54:17,886  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 20:54:22,628  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 20:54:24,409  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 20:54:24,553  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 20:54:27,089  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 20:54:27,395  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 20:54:33,864  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:54:33,869  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 20:54:38,461  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 20:54:38,469  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:27:24,521  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:27:25,008  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:27:29,687  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:27:29,930  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:27:49,582  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:27:49,737  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:27:57,425  INFO [pool-2-thread-1] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:27:57,914  INFO [pool-2-thread-1] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:29:26,233  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:29:26,701  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:29:30,133  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:29:30,394  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:29:46,508  INFO [main] CucumberBy_SDET:163 - ******adding new customer********
+2021-07-14 21:29:46,509  INFO [main] CucumberBy_SDET:164 - ******providing customer details********
+2021-07-14 21:29:53,530  INFO [main] CucumberBy_SDET:190 - ******saving customer data********
+2021-07-14 21:29:57,884  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:29:59,722  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:29:59,901  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:30:04,432  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:30:04,680  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:30:20,442  INFO [main] CucumberBy_SDET:210 - *****searching customer by emailid*********
+2021-07-14 21:30:23,912  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:30:25,635  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:30:25,804  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:30:30,348  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:30:30,585  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:30:47,237  INFO [main] CucumberBy_SDET:237 - *****searching customer by name*********
+2021-07-14 21:30:50,865  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:30:52,662  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:30:52,836  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:30:57,267  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:30:57,542  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:31:05,749  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:31:05,755  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 21:31:11,362  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:31:11,369  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:31:13,113  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:31:13,286  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:31:15,950  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:31:16,222  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:31:23,939  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:31:23,944  INFO [main] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 21:31:29,480  INFO [main] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:31:29,487  INFO [main] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:31:31,418  INFO [main] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:31:31,588  INFO [main] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:31:33,113  INFO [main] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:31:33,485  INFO [main] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:31:43,883  INFO [pool-2-thread-2] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:31:44,466  INFO [pool-2-thread-2] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:31:48,925  INFO [pool-2-thread-2] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:31:49,186  INFO [pool-2-thread-2] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:31:56,869  INFO [pool-2-thread-2] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:31:56,887  INFO [pool-2-thread-2] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 21:32:03,461  INFO [pool-2-thread-2] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:32:03,467  INFO [pool-2-thread-2] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:32:05,325  INFO [pool-2-thread-2] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:32:05,485  INFO [pool-2-thread-2] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:32:09,856  INFO [pool-2-thread-2] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:32:10,109  INFO [pool-2-thread-2] CucumberBy_SDET:107 - *******started loging*******
+2021-07-14 21:32:18,700  INFO [pool-2-thread-2] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:32:18,708  INFO [pool-2-thread-2] CucumberBy_SDET:75 - ******click on logout link********
+2021-07-14 21:32:23,284  INFO [pool-2-thread-2] CucumberBy_SDET:90 - *******loging failed*******
+2021-07-14 21:32:23,287  INFO [pool-2-thread-2] CucumberBy_SDET:115 - ******close browser********
+2021-07-14 21:32:25,039  INFO [pool-2-thread-2] CucumberBy_SDET:53 - *******launching browser*******
+2021-07-14 21:32:25,205  INFO [pool-2-thread-2] CucumberBy_SDET:69 - *******opening url*******
+2021-07-14 21:32:29,781  INFO [pool-2-thread-2] CucumberBy_SDET:100 - *******providing loging details*******
+2021-07-14 21:32:30,028  INFO [pool-2-thread-2] CucumberBy_SDET:107 - *******started loging*******

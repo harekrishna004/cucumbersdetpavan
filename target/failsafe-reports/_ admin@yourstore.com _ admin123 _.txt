@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: | admin@yourstore.com | admin123 |
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 3, Time elapsed: 10.642 s <<< FAILURE! - in | admin@yourstore.com | admin123 |
+| admin@yourstore.com | admin123 |.Then page title should be "Dashboard / nopCommerce administration"  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError
+
+| admin@yourstore.com | admin123 |  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+

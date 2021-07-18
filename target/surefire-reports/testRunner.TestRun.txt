@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRun
+-------------------------------------------------------------------------------
+Tests run: 66, Failures: 2, Errors: 0, Skipped: 3, Time elapsed: 133.349 s <<< FAILURE! - in testRunner.TestRun
+Then page title should be "Dashboard / nopCommerce administration"(| admin@yourstore.com | admin123 |)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError
+
+| admin@yourstore.com | admin123 |  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError
+
